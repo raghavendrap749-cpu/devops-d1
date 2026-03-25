@@ -4,4 +4,3 @@ from jss unievrsity mysore
 im basically from challakere ,chitradudrga
 i have knowledge on HTML,CSS,Javascript and nest.js
 i have doen projects on python and web development
-hello
