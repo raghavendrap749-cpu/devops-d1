@@ -3,4 +3,5 @@ i completed BCA in 2022
 from jss unievrsity mysore
 im basically from challakere ,chitradudrga
 i have knowledge on HTML,CSS,Javascript and nest.js
-i have doen projects on python and web development
+i have done projects on python and web development
+1) nutritrack calcultaor
